@@ -1,4 +1,4 @@
-# INFO-7255: Adv Big Data Indexing Techniques
+# Adv Big Data Indexing Techniques
 
 A course on distributed systems and big data indexing techniques.
 
